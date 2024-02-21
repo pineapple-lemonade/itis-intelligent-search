@@ -1,6 +1,4 @@
-from crawler import Crawler
-
+import crawler
 
 if __name__ == '__main__':
-    crawler = Crawler(["https://theukdomain.uk/"], 2)
-    crawler.crawl()
+    crawler.download_pages()
