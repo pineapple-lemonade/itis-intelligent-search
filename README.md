@@ -8,3 +8,7 @@
 
 [lemmas](https://github.com/pineapple-lemonade/itis-intelligent-search/blob/main/second_task/lemmas.txt)
 [tokens](https://github.com/pineapple-lemonade/itis-intelligent-search/blob/main/second_task/tokens.txt)
+
+## Third HW
+
+[inverted](https://github.com/pineapple-lemonade/itis-intelligent-search/blob/main/third/inverted.txt)
