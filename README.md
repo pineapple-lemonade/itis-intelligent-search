@@ -11,4 +11,9 @@
 
 ## Third HW
 
-[inverted](https://github.com/pineapple-lemonade/itis-intelligent-search/blob/main/third/inverted.txt)
+[inverted](https://github.com/pineapple-lemonade/itis-intelligent-search/blob/main/third_task/inverted.txt)
+
+## Fourth HW
+
+[lemmas_tf_idf](https://github.com/pineapple-lemonade/itis-intelligent-search/blob/main/fourth_task/lemmas_tf_idf.zip)
+[tokens_tf_idf](https://github.com/pineapple-lemonade/itis-intelligent-search/blob/main/fourth_task/tokens_tf_idf.zip)
