@@ -1,3 +1,5 @@
 /venv
 /results
 /.idea
+/fourth_task/tokens_tf_idf/
+/fourth_task/lemmas_tf_idf/
